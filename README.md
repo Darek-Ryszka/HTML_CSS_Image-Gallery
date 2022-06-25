@@ -5,7 +5,7 @@ This project is a simple image gallery.
 
 ## Technologies
 * HTML5
-* CSS 
+* CSS3 
 
 ## Description
 It is my first HTML and CSS project.
